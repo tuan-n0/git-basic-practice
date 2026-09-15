@@ -1,0 +1,2 @@
+Ghi chu ca nhan - khong dua vao repository
+Bai 2: da them script.js va sua style.css
